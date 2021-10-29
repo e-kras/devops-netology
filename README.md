@@ -1,4 +1,5 @@
 # devops-netology
+#v0.1
 My name is Evgeny
 
 #будут игнорироваться файлы во всех вложенных каталогах .terraform
